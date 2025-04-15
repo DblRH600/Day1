@@ -1,0 +1,46 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    background-color:/*royalblue;*/ rgba(43, 45, 239, 0.78);
+    
+}
+body{
+    background-image: url("saukra.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    background-color: skyblue; /* dodgerblue */
+}
+ul{
+    display: inline;
+    text-align: left; /* center in original code*/
+    align-items: center;
+    margin-right: 30px;
+    
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+img{
+    max-height: 250px;
+    margin-top: 20px;
+}
+
+.vaca-img{
+    display: block;
+    width: 250px;
+    margin: auto;
+    /* padding-left: 100px;
+    padding-bottom: 10px; */
+}
+
+.main{
+    margin-top: 5px;
+}
+    
